@@ -13,3 +13,11 @@ module.exports = [
     task: "Wash the dishes"
   }
 ];
+module.exports = [
+  ...
+  {
+    id: 4,
+    task: "Make Dinner"
+  }
+];
+
